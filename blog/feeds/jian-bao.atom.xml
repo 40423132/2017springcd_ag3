@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/jian-bao.atom.xml" rel="self"></link><id>./</id><updated>2017-03-23T12:08:00+08:00</updated><entry><title>協同產品設計實習 W5簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;編輯fossil倉儲讓介面更完善&lt;/p&gt;
+&lt;p&gt;介紹Wiki編輯模式的種類(Fossil Wiki、Markdown、Html)&lt;/p&gt;
+&lt;p&gt;Solcespace 單連桿與四連桿機構轉入 V-rep 進行運動模擬&lt;/p&gt;
+&lt;p&gt;V-rep的remote API連結單連桿&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/0323.png"width="800"/&gt;&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W4簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html" rel="alternate"></link><published>2017-03-16T12:08:00+08:00</published><updated>2017-03-16T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-16:./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;&lt;p1&gt;使用fossil sql -R cd.fossil建立倉儲&lt;/p1&gt;&lt;/p&gt;
