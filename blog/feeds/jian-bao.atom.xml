@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/jian-bao.atom.xml" rel="self"></link><id>./</id><updated>2017-03-23T12:08:00+08:00</updated><entry><title>協同產品設計實習 W5簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/jian-bao.atom.xml" rel="self"></link><id>./</id><updated>2017-04-12T12:08:00+08:00</updated><entry><title>協同產品設計實習 W8簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w8jian-bao.html" rel="alternate"></link><published>2017-04-12T12:08:00+08:00</published><updated>2017-04-12T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-04-12:./xie-tong-chan-pin-she-ji-shi-xi-w8jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;介紹Wiki編輯模式的種類(Fossil Wiki、Markdown、Html)&lt;/p&gt;
-&lt;p&gt;Solcespace 單連桿與四連桿機構轉入 V-rep 進行運動模擬&lt;/p&gt;
-&lt;p&gt;V-rep的remote API連結單連桿&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/0323.png"width="800"/&gt;&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W6簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w6jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w6jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;點名、自評&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W7簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w7jian-bao.html" rel="alternate"></link><published>2017-04-05T12:08:00+08:00</published><updated>2017-04-05T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-04-05:./xie-tong-chan-pin-she-ji-shi-xi-w7jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;點名、自評&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W6簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w6jian-bao.html" rel="alternate"></link><published>2017-03-29T12:08:00+08:00</published><updated>2017-03-29T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-29:./xie-tong-chan-pin-she-ji-shi-xi-w6jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, &lt;/p&gt;
 &lt;p&gt;並且將模型導入 V-rep&lt;/p&gt;
@@ -18,11 +17,12 @@
 
 &lt;iframe src="https://player.vimeo.com/video/213222537" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213222537"&gt;郭力維 虎尾科大機械設計工程系40423132 - V-REP 八連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W7簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w7jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w7jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213222537"&gt;郭力維 虎尾科大機械設計工程系40423132 - V-REP 八連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W5簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w5jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;點名、自評&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W8簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w8jian-bao.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-w8jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;點名、自評&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W4簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html" rel="alternate"></link><published>2017-03-16T12:08:00+08:00</published><updated>2017-03-16T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-16:./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;介紹Wiki編輯模式的種類(Fossil Wiki、Markdown、Html)&lt;/p&gt;
+&lt;p&gt;Solcespace 單連桿與四連桿機構轉入 V-rep 進行運動模擬&lt;/p&gt;
+&lt;p&gt;V-rep的remote API連結單連桿&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/0323.png"width="800"/&gt;&lt;/p&gt;</summary><category term="簡報"></category></entry><entry><title>協同產品設計實習 W4簡報</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html" rel="alternate"></link><published>2017-03-16T12:08:00+08:00</published><updated>2017-03-16T12:08:00+08:00</updated><author><name>2017springcd_ag3</name></author><id>tag:,2017-03-16:./xie-tong-chan-pin-she-ji-shi-xi-w4jian-bao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;&lt;p1&gt;使用fossil sql -R cd.fossil建立倉儲&lt;/p1&gt;&lt;/p&gt;
 &lt;p&gt;&lt;p2&gt;將組員加入管理員給予一些修改權限&lt;/p2&gt;&lt;/p&gt;
