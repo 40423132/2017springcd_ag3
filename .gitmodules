@@ -24,7 +24,7 @@
 	branch = gh-pages
 [submodule "2017springcd_hw"]
 	path = 2017springcd_hw
-	url = https://github.com/40423131/2017springcd_hw
+	url = https://github.com/40423112/2017springcd_hw
 	branch = gh-pages
 [submodule "40423116"]
 	path = 40423116
