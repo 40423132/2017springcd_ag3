@@ -1,1 +1,0 @@
-var tipuesearch = {"pages":[{"title":"About","text":"2016Fall 修課成員網誌","tags":"misc","url":"./pages/about/"},{"title":"協同產品設計實習 W1簡報","text":"上課筆記","tags":"簡報","url":"./xie-tong-chan-pin-she-ji-shi-xi-w1jian-bao.html"}]};
